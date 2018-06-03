@@ -1,0 +1,26 @@
+{
+  "name": "gae-standard-example",
+  "version": "1.0.0",
+  "description": "Example Application to Deploy to Google App Engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorderikir/node-gae-standard-example.git"
+  },
+  "author": "lorderikir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorderikir/node-gae-standard-example/issues"
+  },
+  "homepage": "https://github.com/lorderikir/node-gae-standard-example#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.4"
+  }
+}
